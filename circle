@@ -1,6 +1,15 @@
+#to find the area of a circle
+
 r=input(int("Enter radius of circle"))
 def area(r):
 
 a=3.14*r*r
 
 print("The area of a cicle of radius" +r "cm is equal to:" +a)
+
+#file handling
+
+a=input("Input the Filename:")
+print("Input the Filename:" +a)
+print("The extension of the file is:'python'"
+
